@@ -1,5 +1,4 @@
-- 🌪️ hi my name is lina or... @inversecos
-- 👀 i never go on github
+- 🌪️ hi my name is lina 
 - 💣 i love my cat
 
 <!---
